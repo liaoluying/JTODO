@@ -42,7 +42,7 @@
     "babel-plugin-transform-vue-jsx": "^3.7.0",
     "bootstrap": "^4.2.1",
     "cross-env": "^5.2.0",
-    "css-loader": "^2.1.0",
+    "css-loader": "^1.0.1",
     "jquery": "^1.9.1",
     "mini-css-extract-plugin": "^0.5.0",
     "mint-ui": "^2.2.13",
